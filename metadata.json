@@ -1,0 +1,5 @@
+{
+  "name": "Particle Shifter",
+  "description": "An interactive 3D particle simulation that shapeshifts between geometric forms with dynamic color controls.",
+  "requestFramePermissions": []
+}
